@@ -1,0 +1,8 @@
+.terraform*
+.envrc
+.direnv/
+.mypy_cache/
+.artifact/
+terraform.tfstate*
+__*
+cdk.out/
